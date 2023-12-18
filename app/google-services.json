@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498032204337",
+    "project_id": "fir-firestore-e39ba",
+    "storage_bucket": "fir-firestore-e39ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498032204337:android:1a5399291618e9e8f6d310",
+        "android_client_info": {
+          "package_name": "com.example.percobaan6vhiotirta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1S-1Ttm6fg62ibilLWJKxs0VeY4SOpUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
